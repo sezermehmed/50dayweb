@@ -12,8 +12,7 @@ function checkBoxes() {
 
     if (boxTop < triggerBottom) {
       box.classList.add("show");
-    } else {
-        
+    } else {  
       box.classList.remove("show");
     }
   });
