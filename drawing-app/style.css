@@ -16,7 +16,7 @@ body {
 }
 
 canvas {
-    border: 2px solid steelblue
+    border: 2px solid steelblue;
 }
 
 .toolbox {
